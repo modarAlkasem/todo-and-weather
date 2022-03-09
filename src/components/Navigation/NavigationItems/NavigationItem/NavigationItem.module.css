@@ -1,0 +1,48 @@
+.NavigationItem{
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    
+
+}
+.NavigationItem a{
+    color: rgb(39, 38, 38);
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+}
+.NavigationItem a:active,
+.NavigationItem a:hover,
+.NavigationItem a.active{
+    color:rgb(116, 113, 113);
+}
+
+
+@media(min-width:600px){
+    .NavigationItem{
+        margin: 0;
+       width: auto;
+        display: flex;
+        height: 100%;
+        align-items: center;
+    
+    }
+    .NavigationItem a{
+        color: white;
+
+        height: 100%;
+        padding: 16px 10px;
+        border-bottom: 4px solid transparent;
+
+    }
+    .NavigationItem a:active,
+    .NavigationItem a:hover,
+    .NavigationItem a.active{
+        
+        border-bottom: 4px solid rgb(201, 201, 201);;
+        color:rgb(201, 201, 201);
+    }
+
+}

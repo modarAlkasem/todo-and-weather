@@ -1,0 +1,15 @@
+.TodoList{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    width: 80%;
+    max-width: 500px;
+    margin-top: 5rem ;
+    margin-bottom: 2rem;
+    background-color: rgb(230, 227, 227);
+    border-radius: 25px;
+    font-size: 1.1rem;
+    align-items: center;
+    
+
+}

@@ -1,0 +1,14 @@
+.Form{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+/* .Form input{
+    width: 70%;
+
+   
+
+
+
+    
+} */

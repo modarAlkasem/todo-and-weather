@@ -1,0 +1,20 @@
+.TodoDetails{
+    display: flex;
+    flex-flow: column;
+    color: rgb(44, 44, 44);
+}
+.TodoDetails .Title{
+    text-align: center;
+    border-bottom: 1px solid rgb(189, 189, 189);
+    margin-bottom: 1rem;
+}
+.TodoDetails .Dates div{
+    margin-bottom: 0.5rem;
+}
+
+.TodoDetails .Description{
+  
+    font-size: 1rem;
+    
+    
+}

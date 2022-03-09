@@ -1,0 +1,15 @@
+.WeatherCard{
+    color: rgb(59, 59, 59);
+    width: 70%;
+    border: 1px solid rgb(190, 189, 189);
+    padding: 1rem;
+    margin: 0 auto 0.8rem auto;
+    max-width: 500px;
+    box-shadow: 0px 0px 5px #302f2f;
+  
+}
+.CurrentWeather h3{
+    text-align: center;
+
+    
+}

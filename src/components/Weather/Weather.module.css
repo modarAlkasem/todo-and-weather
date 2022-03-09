@@ -1,0 +1,17 @@
+.Weather{
+    color: rgb(97, 95, 95)
+
+}
+.Weather .Date{
+    color: #eb6e4b;
+    margin-bottom: 0.1rem;
+}
+.Weather .Location{
+  font-weight: bold;
+}
+.Degree{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}

@@ -1,0 +1,11 @@
+.Main{
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    margin:auto; 
+    align-items: center;
+
+}
+/* .Main form{
+    width: 100%;
+} */
